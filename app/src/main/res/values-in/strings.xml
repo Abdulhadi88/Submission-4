@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="request_success">berhasil melakukan permintaan</string>
+    <string name="request_fail">gagal untuk melakukan permintaan</string>
+    <string name="favorite_success">berhasil menambahkan kesukaan</string>
+    <string name="favorite_fail">gagal membuat kesukaan</string>
+    <string name="change_the_language">opsi ganti bahasa</string>
+</resources>
